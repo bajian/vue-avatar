@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+##demo
+
+[live-demo](https://cdn.rawgit.com/bajian/vue-avatar/master/dist/index1.html)
+
 ## Build Setup
 
 ``` bash
